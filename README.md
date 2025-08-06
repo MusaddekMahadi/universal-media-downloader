@@ -21,8 +21,9 @@ sudo apt install yt-dlp vlc -y
 
 1. Download the Script
 
-curl -O https://raw.githubusercontent.com/MusaddekMahadi/universal-media-downloader/main/universal-media-downloader.sh
+curl -O https://raw.githubusercontent.com/MusaddekMahadi/universal-media-downloader/main/universal-media-downloader.sh 
 chmod +x universal-media-downloader.sh
+
 
 
 2. Run the Script
